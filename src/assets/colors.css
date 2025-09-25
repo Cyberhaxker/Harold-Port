@@ -1,0 +1,24 @@
+ colors: {
+      Slate: "#303745",
+      lightSlate: "#56637B", 
+      darkSlate: "#1F242D",
+      black: "#0A0C0F",
+      white: "#ffffff",
+      cyan: "#15d1e9",
+      lightCyan: "#88e5f0",
+      darkCyan: "#009fb3",
+      orange: "#7CF03D",
+      lightOrange: "#5FED12",
+      darkOrange: "#4EC20F",
+      grey: "#63605d",
+      lightGrey: "#bdbbb9",
+      darkGrey: "#474747"
+
+    },
+    extend: { 
+      boxShadow: {
+        'cyanShadow': '0px 0px 20px 0px rgba(94, 206, 220, 0.5)',
+        'cyanMediumShadow': '10px 10px 200px 150px rgba(60, 253, 197, 0.8)',
+        'orangeMediumShadow': '10px 10px 200px 150px rgba(84, 248, 2, 0.8)',
+        'orangeShadow': '1px 1px 20px 1px rgba(84, 248, 2, 0.8)',
+      }
