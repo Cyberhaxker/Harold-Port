@@ -1,7 +1,7 @@
 import HeroText from './HeroText';
 import HeroVidsBg from './HeroVidsBg';
 import AboutLine from './AboutLine';
-import {VidzPaper} from './VidzPaper';
+import WallPaper from './WallPaper';
 
 function HeroMain() {
   return ( 
@@ -10,8 +10,7 @@ function HeroMain() {
     '>
       <HeroText /> 
       <HeroVidsBg /> 
-      <VidzPaper />
-    
+      <WallPaper />
     </div>
     <div className='max-w-[1200px] mt-50 mx-auto'><AboutLine /></div>
   </div>
