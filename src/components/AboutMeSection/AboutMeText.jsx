@@ -19,7 +19,7 @@ const AboutMeText = () => {
         >About Me
         </ScrollFloat>
         <p className='text-white text-bold'> 
-        I'm Harold G. Muchenje. I am an aspiring Data science engineer or Data Scientist with a strong passion of building advanced inteligent computer systems or 
+        Hello World!, I am an aspiring AI or ML engineer with a strong passion of building advanced inteligent computer systems or 
         advanced inteligent information systems to solve variouse real world problems.
         I am the person who is driven by creativity, hard work and innovation. With a strong focus on delivering high-quality solutions 
         that meet the needs of users and businesses alike.2027,I will graduate with a BSc Honors Degree in Data science and informatics from the Midlands State University Gweru in Zimbabwe.
