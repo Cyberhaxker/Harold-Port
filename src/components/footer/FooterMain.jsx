@@ -7,7 +7,7 @@ const links = [
 
 const FooterMain = () => {
   return (
-    <div className='px-4'>
+    <div className='px-4 h-full'>
         <div className='w-full h-[1px] bg-lime-400 shadow-xs mt-24'></div>
         <div className='md:flex sm:hidden justify-between mt-4 max-w-[1200px] h-10 mx-auto'>
             <div className='flex flex-row ml-5'>
